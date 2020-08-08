@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#651FFF</item>
+        <item name="colorPrimaryDark">#651FFF</item>
+        <item name="colorAccent">#ff1744</item>
+        <!--<item name="actionMenuTextColor"#ffffff</item>-->
+        <item name="android:statusBarColor">#651FFF</item>
+        <item name="actionMenuTextColor">#ffffff</item>
+
+    </style>
+
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">false</item>
+    </style>
+
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
+
+
+
+
+        </style>
+    <style name="AppTheme.NoActionBar.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+
+
+
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookingDatabase">
+
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_timetable"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:navigationIcon="@drawable/ic_arrow_back_black_24dp"
+            app:popupTheme="@style/PopupOverlay"
+            app:title="Select Timings"/>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="500sp"
+        android:layout_marginStart="6sp"
+        android:layout_marginTop="65sp"
+        android:layout_marginEnd="6sp"
+        android:layout_marginBottom="6sp"
+        app:cardCornerRadius="20dp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/date_database"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20sp"
+                android:text="Date selected : "
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="300sp"
+                android:layout_height="3dp"
+                android:layout_marginTop="55sp"
+                android:layout_marginLeft="20sp"
+                android:background="#651FFF"/>
+
+
+            <TextView
+                android:id="@+id/coun_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="65sp"
+
+                android:layout_marginLeft="20sp"
+
+                android:hint="Counsellor chosen : "
+                android:textSize="18dp" />
+
+
+
+            <TextView
+                android:id="@+id/database"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="90sp"
+
+                android:layout_marginLeft="20sp"
+
+                android:hint="No. of available slots : "
+                android:textSize="18dp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="125sp"
+                android:layout_marginLeft="20sp"
+                android:text="Choose a slot : "
+                android:textColor="#651FFF"
+                android:textSize="18dp" />
+
+
+
+            <ProgressBar
+                android:id="@+id/progressBar1"
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="56sp"
+                android:layout_height="50sp"
+                android:layout_centerInParent="true" />
+
+            <LinearLayout
+
+                android:id="@+id/lin_layout"
+                android:layout_width="371sp"
+                android:layout_height="275sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="150sp"
+
+                android:layout_marginTop="170sp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

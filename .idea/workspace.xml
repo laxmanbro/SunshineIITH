@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="LAX" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>recyclerview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>de.hdodenhof</group-id>
+        <name>circleimageview</name>
+        <version>3.0.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>design</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-messaging</name>
+        <version>19.0.1</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-core</name>
+        <version>17.0.1</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-auth</name>
+        <version>18.1.0</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>cardview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-firestore</name>
+        <version>20.2.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-beta2</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-database</name>
+        <version>18.0.1</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>1.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1564272413699</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04bcb3d7-bf85-4b15-85f1-99473b9a0441" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="mySunshine" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="mySunshine" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="mySunshine" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="mySunshine" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="mySunshine" type="2d1252cf:ModuleNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mySunshine" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Appointment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/BookingDatabase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="99" column="25" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
+              <folding>
+                <element signature="e#3039#3040#0" expanded="true" />
+                <element signature="e#3089#3090#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_sun_main.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/appointment.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test_maria.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_sun_main.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/booking_database.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_alert.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>arth</find>
+      <find>mAuth</find>
+      <find>GoogleSign</find>
+      <find>build</find>
+      <find>gso</find>
+      <find>getrooms</find>
+      <find>ChatRoom</find>
+      <find>createRoom</find>
+      <find>date_</find>
+      <find>new use</find>
+      <find>createroom</find>
+      <find>email</find>
+      <find>getSupport</find>
+      <find>000000</find>
+      <find>anitha</find>
+      <find>timeta</find>
+      <find>selectedcouns</find>
+      <find>lin</find>
+      <find>spinner</find>
+      <find>toast</find>
+      <find>progre</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../mykeystore.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_access_denied.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_calender_fragment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_action_name_smile.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_action_name_phone.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_group_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_phone_chat.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_event.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_sun_main_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/grdient_color.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_chat_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_chat_room.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_create_room.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sun_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_sun_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/chat_fragment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_sun_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_sun_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/card_gradient.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/ChatsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_chat_sent.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_message_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/AboutActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/appointment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/home_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/mg.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Appointment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/booking_database.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/recyclerview_row.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/MyRecyclerViewAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/ListItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Person.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/SpinnerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/spinner_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Blog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/mentor_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/MyAppGlideModule.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Home_main.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/sun_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/SunMain.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home_fragment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/HomeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/blog_row.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/MentorFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/BookingDatabase.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="203" />
+    <option name="y" value="105" />
+    <option name="width" value="1389" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mySunshine" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="mySunshine" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="mySunshine" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="sunshine" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySunshine" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="mySunshine" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mySunshine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySunshine" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySunshine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySunshine" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/release/app-release-unsigned.apk" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_XL_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-12-22T12:20:36.537Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="algorithm" value="Scalr" />
+    <property name="device.picker.selection" value="Pixel_2_XL_API_28" />
+    <property name="format" value="PNG" />
+    <property name="lastFolderRoot" value="$PROJECT_DIR$/../Downloads/logo1.png" />
+    <property name="last_opened_file_path" value="$USER_HOME$/mySunshine" />
+    <property name="method" value="Automatic" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="resolutions" value="XXHDPI&#10;XXXHDPI&#10;XHDPI&#10;MDPI&#10;HDPI" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.4.1" />
+    <property name="sourceResolution" value="XHDPI" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app/libs" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.iith.sunshine" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.iith.sunshine" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FirebaseListOptions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/darth-vader/mySunshine/app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/home/darth-vader/mySunshine/app" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="mySunshine [projects]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="projects" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="mySunshine [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./home/darth-vader/mySunshine/app [signingReport]" />
+        <item itemvalue="Gradle.mySunshine [tasks]" />
+        <item itemvalue="Gradle.mySunshine [projects]" />
+        <item itemvalue="Gradle./home/darth-vader/mySunshine/app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04bcb3d7-bf85-4b15-85f1-99473b9a0441" name="Default Changelist" comment="" />
+      <created>1563202462273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563202462273</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update jan 2020">
+      <created>1582298335271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582298335272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="203" y="105" width="1389" height="789" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.52373886" side_tool="true" weight="0.1759823" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.47626114" visible="true" weight="0.23678333" />
+      <window_info id="Structure" order="2" sideWeight="0.52373886" side_tool="true" weight="0.1759823" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" sideWeight="0.52373886" side_tool="true" weight="0.1759823" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32946378" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3291536" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4964029" weight="0.32829374" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50913113" side_tool="true" weight="0.27213824" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49086884" visible="true" weight="0.38181818" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32810867" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49197567" weight="0.2948164" />
+      <window_info anchor="bottom" id="Find" order="9" sideWeight="0.4991699" weight="0.32829374" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.23880596" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Assistant" order="5" weight="0.3065855" />
+      <window_info anchor="right" id="Preview" order="6" visible="true" weight="0.34549516" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.47838616" visible="true" weight="0.14665191" />
+      <window_info id="Structure" order="2" sideWeight="0.50138503" side_tool="true" weight="0.18131565" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" sideWeight="0.52161384" side_tool="true" weight="0.20232172" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32946378" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3291536" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4964029" weight="0.32829374" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50857776" side_tool="true" weight="0.27213824" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49142224" visible="true" weight="0.27213824" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32810867" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49197567" weight="0.2948164" />
+      <window_info anchor="bottom" id="Find" order="9" sideWeight="0.4991699" weight="0.32829374" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.23880596" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Assistant" order="5" weight="0.3065855" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.2573326" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update jan 2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="update jan 2020" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/build.gradle</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_help_outline_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_group_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_home_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_gallery.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_send.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_manage.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_share.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_slideshow.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_message_black_24dp.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_notifications_active_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_perm_identity_black_24dp.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_phone_chat.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_power_settings_new_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_stat_name.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icons8_whatsapp_48.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-anydpi-v24/ic_stat_name_mail.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/anitha_reddy.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/joelprakash.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/maria.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vignesh.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/akshitha.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/MyAppGlideModule.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/mentor_activity.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/sun_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/date_test.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/grdient_color.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/card_gradient.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Home_main.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/SunMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="173" column="49" lean-forward="true" selection-start-line="173" selection-start-column="49" selection-end-line="173" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home_fragment.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/MentorFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/HomeFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Blog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/blog_row.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/Appointment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iith/sunshine/BookingDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="99" column="25" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
+          <folding>
+            <element signature="e#3039#3040#0" expanded="true" />
+            <element signature="e#3089#3090#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_sun_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_alert.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/booking_database.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/appointment.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test_maria.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_sun_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$/app" />
+  </component>
+</project>

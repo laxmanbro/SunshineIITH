@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="title_activity_sun_main">SunMAin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Log out</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_slot">Counsellor Availability </string>
+    <string name="menu_chat">Chat Anonymously</string>
+    <string name="menu_tools">Acad Calender</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_notify">Notifications</string>
+    <string name="menu_help">Help &amp; feedback</string>
+    <string name="menu_team">Our team </string>
+    <string name="menu_logout">Log out</string>
+
+
+    <string name="hint_create_room">Enter room name&#8230;</string>
+    <string name="create_room">Create room</string>
+    <string name="error_empty_room">Please enter a room name</string>
+    <string name="error_creating_room">error creating a room </string>
+    <string name="hint_message_text">Type a message&#8230;</string>
+    <string name="error_empty_message">Please enter a message</string>
+    <string name="error_message_failed">Failed to send your message</string>
+
+
+</resources>
